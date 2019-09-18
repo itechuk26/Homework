@@ -1,11 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeb7093e-ae8e-4754-8074-fe83f2ffbaf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Paavan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answr4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer1.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QpojUv8PUEYVv2E3tcQsKZm5rw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Extra Java Programs" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Wall">
+    <configuration name="Answer19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answer19" />
+      <module name="Homework_14_09_2019_Dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answer2" />
+      <module name="Homework_14_09_2019_Dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answer20" />
+      <module name="Homework_14_09_2019_Dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="Homework_14_09_2019_Dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wall" />
+      <module name="Homework_14_09_2019_Dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Wall" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Answer2" />
+        <item itemvalue="Application.Answer20" />
+        <item itemvalue="Application.Answer19" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeb7093e-ae8e-4754-8074-fe83f2ffbaf4" name="Default Changelist" comment="" />
+      <created>1568479736525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568479736525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Answer19.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
