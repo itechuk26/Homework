@@ -20,6 +20,7 @@ public class Answer10 {
         boolean ans=false;
         int temp = num;
         int rem,sum=0;
+
         for(int i=1; temp>0; i++){
             rem = temp%10;
             sum = sum + (rem*rem*rem);

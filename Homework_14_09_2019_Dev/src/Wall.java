@@ -29,7 +29,7 @@ public class Wall {
     public double getWidth(){
         double w = width;
 
-        return w;
+        return width;
     }
 
     public double getHeight(){

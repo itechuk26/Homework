@@ -14,8 +14,8 @@ public class Answer2 {
 
 
         while (j == 0) {
-            System.out.print("\t .Enter Number . "+i +" : ");
-            if (in.hasNextInt() && (i<9)) {
+            System.out.print("\t .Enter Number . "+(i) +" : ");
+            if (in.hasNextInt() && (i<10)) {
                 num[i] = in.nextInt();
                 i++;
             }

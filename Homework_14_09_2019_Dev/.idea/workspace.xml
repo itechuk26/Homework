@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb7093e-ae8e-4754-8074-fe83f2ffbaf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Paavan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answr4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Answer10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Answer10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Answer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Answer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework_14_09_2019_Dev/Wall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Answer10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Answer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Wall.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Wall">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Answer19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Answer19" />
       <module name="Homework_14_09_2019_Dev" />
@@ -106,9 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Wall" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Answer2" />
+        <item itemvalue="Application.Wall" />
         <item itemvalue="Application.Answer20" />
         <item itemvalue="Application.Answer19" />
       </list>
@@ -150,5 +134,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Homework_14_09_2019_Dev$Answer2.ic" NAME="Answer2 Coverage Results" MODIFIED="1568978211210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

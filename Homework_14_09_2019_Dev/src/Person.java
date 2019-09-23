@@ -20,53 +20,54 @@ public class Person {
         System.out.println("fullName= " + person.getFullName());
     }
 
-    public String getFirstName(){
-        String s1=firstName;
+    public String getFirstName() {
+        String s1 = firstName;
         return s1;
     }
 
-    public String getLastName(){
-        String s1=lastName;
+    public String getLastName() {
+        String s1 = lastName;
         return s1;
     }
 
-    public int getAge(){
-        int s1=age;
+    public int getAge() {
+        int s1 = age;
         return s1;
     }
 
-    public void setFirstName(String s1){
+    public void setFirstName(String s1) {
         firstName = s1;
     }
 
-    public void setLastName(String s1){
+    public void setLastName(String s1) {
         lastName = s1;
     }
 
-    public void setAge(int s1){
-        if(s1<0 || s1>100)
-            age=0;
+    public void setAge(int s1) {
+        if (s1 < 0 || s1 > 100)
+            age = 0;
         else
             age = s1;
     }
 
-    public boolean isTeen(){
-        boolean a=false;
-        if(age>12 && age<20)
-            a=true;
-        return a;
+    public boolean isTeen() {
+        boolean ans = true;
+        if ((age > 12) && (age < 20)) {
+            ans = true;
+        } else {
+            ans = false;
+        }
+        return ans;
     }
 
-    public String getFullName(){
-        boolean empty=false;
-        if(firstName.isEmpty()){
+    public String getFullName() {
+        if (firstName.isEmpty()) {
             firstName = " ";
         }
-        if(lastName.isEmpty()){
+        if (lastName.isEmpty()) {
             lastName = " ";
         }
-        String s1 = firstName +" " +lastName;
+        String s1 = firstName + " " + lastName;
         return s1;
     }
-
 }
